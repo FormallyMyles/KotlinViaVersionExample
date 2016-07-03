@@ -1,0 +1,6 @@
+name: KotlinViaAPI
+author: _MylesC
+version: ${project.version}
+main: us.myles.viaexample.ExamplePlugin
+description: Allows you to have special welcome messages for certain versions.
+depends: [ViaVersion]

@@ -1,0 +1,5 @@
+# Example plugin which sends join messages to specific protocols
+# You can use protocol numbers from wiki.vg/Protocol_version_numbers
+protocol:
+  210:
+    - "1.10 is nice isn't it!"
